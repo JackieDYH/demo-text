@@ -1,4 +1,4 @@
-home: true // 开启首页
+home: true // dyh ==============================================
 heroImage: /logo_ci.png // 首页logo
 # heroText: 爱生活, 爱人生 // 主标题, 加#注释的意思
 tagline: 总结使人进步 // 副标题
@@ -12,3 +12,4 @@ features: // 底部简介
 - title: 爱分享
   details: 知识不像金钱, 知识越分享你会收获越多, 而金钱越分享会越少
 footer: Love Life | Salute ? 1946-Computer 电影哈哈哈
+dyh ==============================================

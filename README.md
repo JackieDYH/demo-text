@@ -11,4 +11,4 @@ features: // 底部简介
   details: 走出去, 拥抱自然, 感受自然, 遇见不同的人, 学习他们身上的优点, 要学会谦虚
 - title: 爱分享
   details: 知识不像金钱, 知识越分享你会收获越多, 而金钱越分享会越少
-footer: Love Life | Salute ? 1946-Computer Dongxu Li
+footer: Love Life | Salute ? 1946-Computer 电影哈哈哈
